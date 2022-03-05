@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project was created by React + Typescript + ReduxToolkit
+
+The main purpose of this project is what is difference between Context API vs Redux Toolkit.
 
 ## Available Scripts
 
