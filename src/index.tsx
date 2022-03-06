@@ -7,6 +7,7 @@ import AppProvider from './context/AppProvider'
 import { Provider } from 'react-redux'
 import { store } from './app/store'
 import AppRoutes from './routes/route';
+import Layout from './components/Layout';
 
 ReactDOM.render(
   <React.StrictMode>
